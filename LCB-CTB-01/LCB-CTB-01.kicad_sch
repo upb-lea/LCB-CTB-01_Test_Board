@@ -1,0 +1,20 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid c93c15be-ff6f-40d2-a02e-24776d985292)
+
+  (paper "A4")
+
+  (title_block
+    (title "LCB-CTB-01: Test Board")
+    (rev "1.0.0")
+    (company "PADERBORN UNIVERSITY DEPARTMENT OF POWER ELECTRONICS AND ELECTRICAL DRIVES")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LEA_SymbolLibrary")(type "KiCad")(uri "${KIPRJMOD}/../../LEA_KiCad_Library/LEA_Symbol_Library/LEA_Symbol_Library.kicad_sym")(options "")(descr ""))
+)

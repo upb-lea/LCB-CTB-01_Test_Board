@@ -1,0 +1,26 @@
+.DS_Store
+/LCB-CPD-01/LCB-CTB-01-backups/
+/gpgit/
+*.ods
+*.pdf
+*.zip
+*.xml
+*.kicad_prl
+
+/hardware/KiCad_Library/__pycache__/
+
+
+# code composer studio files
+*/*/*/CPU1_FLASH/
+*/*/*/CPU1_RAM/
+*/*/*/CPU2_FLASH/
+*/*/*/CPU2_RAM/
+*/*/*/targetConfigs/
+*/*/*/.launches/
+*/*/*/.settings/
+*.d
+*.cmd
+*.asm
+*/*/*/device/
+
+*.PNG
