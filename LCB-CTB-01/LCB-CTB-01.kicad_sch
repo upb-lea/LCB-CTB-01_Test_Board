@@ -14,6 +14,74 @@
   )
 
 
+  (sheet (at 64.77 46.99) (size 33.02 39.37) (fields_autoplaced)
+    (stroke (width 0.5) (type solid) (color 255 255 0 1))
+    (fill (color 0 0 0 0.0000))
+    (uuid 4c16c2b1-51bd-4393-b426-fd62e379692e)
+    (property "Sheetname" "GPIOs" (at 64.77 45.2396 0)
+      (effects (font (size 3 3)) (justify left bottom))
+    )
+    (property "Sheetfile" "LED.kicad_sch" (at 64.77 87.1184 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "LCB-CTB-01"
+        (path "/c93c15be-ff6f-40d2-a02e-24776d985292" (page "4"))
+      )
+    )
+  )
+
+  (sheet (at 110.49 86.36) (size 31.75 31.75) (fields_autoplaced)
+    (stroke (width 0.5) (type solid) (color 255 0 0 1))
+    (fill (color 0 0 0 0.0000))
+    (uuid 604d32ea-fca4-4e87-93e5-d9e7a50027d2)
+    (property "Sheetname" "ADCINs" (at 110.49 84.6096 0)
+      (effects (font (size 3 3)) (justify left bottom))
+    )
+    (property "Sheetfile" "ADCINs.kicad_sch" (at 110.49 118.8684 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "LCB-CTB-01"
+        (path "/c93c15be-ff6f-40d2-a02e-24776d985292" (page "5"))
+      )
+    )
+  )
+
+  (sheet (at 106.68 44.45) (size 35.56 30.48) (fields_autoplaced)
+    (stroke (width 0.5) (type solid) (color 0 0 255 1))
+    (fill (color 0 0 0 0.0000))
+    (uuid 71f7e37d-6088-4953-b84b-4c10f88e8c06)
+    (property "Sheetname" "PowerSupply" (at 106.68 42.6996 0)
+      (effects (font (size 3 3)) (justify left bottom))
+    )
+    (property "Sheetfile" "PowerSupply.kicad_sch" (at 106.68 75.6884 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "LCB-CTB-01"
+        (path "/c93c15be-ff6f-40d2-a02e-24776d985292" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 154.94 44.45) (size 38.1 30.48) (fields_autoplaced)
+    (stroke (width 0.5) (type solid) (color 0 255 0 1))
+    (fill (color 0 0 0 0.0000))
+    (uuid f389d43a-46bd-45af-bdb9-50b1ba4b1003)
+    (property "Sheetname" "LCB" (at 154.94 42.6996 0)
+      (effects (font (size 3 3)) (justify left bottom))
+    )
+    (property "Sheetfile" "LCB.kicad_sch" (at 154.94 75.6884 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "LCB-CTB-01"
+        (path "/c93c15be-ff6f-40d2-a02e-24776d985292" (page "3"))
+      )
+    )
+  )
+
   (sheet_instances
     (path "/" (page "1"))
   )
