@@ -1,4 +1,4 @@
-22858347882346910
+22860055373030942
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -61921,6 +61921,13 @@ Connector
 0
 8
 8
+LEA_FootprintLibrary
+HDRV16W64P254_2X8_2032X508X914P
+M20-9980846
+Connector
+0
+16
+16
 LEA_FootprintLibrary
 Infineon_PG-DSO-8
 Infineon_PG-DSO-8
