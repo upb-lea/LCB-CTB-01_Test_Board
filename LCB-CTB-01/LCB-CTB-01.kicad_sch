@@ -956,14 +956,14 @@
     )
   )
 
-  (sheet (at 110.49 86.36) (size 31.75 31.75) (fields_autoplaced)
+  (sheet (at 110.49 86.36) (size 36.83 34.29) (fields_autoplaced)
     (stroke (width 0.5) (type solid) (color 255 0 0 1))
     (fill (color 0 0 0 0.0000))
     (uuid 604d32ea-fca4-4e87-93e5-d9e7a50027d2)
     (property "Sheetname" "ADCINs" (at 110.49 84.6096 0)
       (effects (font (size 3 3)) (justify left bottom))
     )
-    (property "Sheetfile" "ADCINs.kicad_sch" (at 110.49 118.8684 0)
+    (property "Sheetfile" "ADCINs.kicad_sch" (at 110.49 121.4084 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
