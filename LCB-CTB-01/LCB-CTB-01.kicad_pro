@@ -491,19 +491,19 @@
     ],
     [
       "71f7e37d-6088-4953-b84b-4c10f88e8c06",
-      "PowerSupply"
+      "Power - Page 2"
     ],
     [
       "f389d43a-46bd-45af-bdb9-50b1ba4b1003",
-      "LCB"
+      "LCB - Page 3"
     ],
     [
       "4c16c2b1-51bd-4393-b426-fd62e379692e",
-      "GPIOs"
+      "GPIO LEDs - Page 4"
     ],
     [
       "604d32ea-fca4-4e87-93e5-d9e7a50027d2",
-      "ADCINs"
+      "ADC MUX - Page 5"
     ]
   ],
   "text_variables": {}
