@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "LCB-CTB-01: Test Board")
+    (date "2024-02-27")
+    (rev "1.0.0")
+    (company "PADERBORN UNIVERSITY DEPARTMENT OF POWER ELECTRONICS AND ELECTRICAL DRIVES")
+  )
+
   (lib_symbols
     (symbol "LEA_SymbolLibrary:+3V3" (power) (pin_numbers hide) (pin_names (offset 0)) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (at 1.27 0 90)
