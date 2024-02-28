@@ -708,6 +708,11 @@
     (uuid fd849b89-c7ab-4ec5-9689-fa6790759676)
   )
 
+  (no_connect (at 243.84 138.43) (uuid 117a0b50-ab1a-45bb-ad6d-d4b2cbda2e94))
+  (no_connect (at 243.84 135.89) (uuid 1fb8ce59-37c4-444e-8915-0f00f5c5afa5))
+  (no_connect (at 214.63 138.43) (uuid 7a9b05e1-bf72-45cd-86ee-148e54897bd3))
+  (no_connect (at 214.63 135.89) (uuid 9a5cae1c-8265-40c8-ab5d-1077ea656614))
+
   (wire (pts (xy 152.4 73.66) (xy 154.94 73.66))
     (stroke (width 0) (type default))
     (uuid 002eb513-513f-4f89-817e-bafd2382bd51)
@@ -6193,31 +6198,6 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:+3V3") (at 214.63 135.89 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 27a9933a-2e84-4747-929f-37d41dd358d6)
-    (property "Reference" "#PWR029" (at 214.63 137.16 90)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "+3V3" (at 219.71 135.89 90)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "" (at 214.63 135.89 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 214.63 135.89 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 98eba0a8-2196-4ddc-b747-588384b8f804))
-    (instances
-      (project "LCB-CTB-01"
-        (path "/c93c15be-ff6f-40d2-a02e-24776d985292/4c16c2b1-51bd-4393-b426-fd62e379692e"
-          (reference "#PWR029") (unit 1)
-        )
-      )
-    )
-  )
-
   (symbol (lib_id "LEA_SymbolLibrary:Conn_01x02") (at 144.78 175.26 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 283f1253-9051-4714-8e28-620750cae37f)
@@ -10456,31 +10436,6 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:+3V3") (at 243.84 135.89 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 78a7a31a-7a10-43c1-9cd6-22086fb2798e)
-    (property "Reference" "#PWR050" (at 243.84 134.62 90)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "+3V3" (at 238.76 135.89 90)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "" (at 243.84 135.89 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 243.84 135.89 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 91e7eb81-2fb2-4483-8bcf-ae1629a98667))
-    (instances
-      (project "LCB-CTB-01"
-        (path "/c93c15be-ff6f-40d2-a02e-24776d985292/4c16c2b1-51bd-4393-b426-fd62e379692e"
-          (reference "#PWR050") (unit 1)
-        )
-      )
-    )
-  )
-
   (symbol (lib_id "LEA_SymbolLibrary:LED_0603_RED") (at 91.44 175.26 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7a0343ee-86f4-4478-9ae1-24f46ab550b4)
@@ -12064,31 +12019,6 @@
       (project "LCB-CTB-01"
         (path "/c93c15be-ff6f-40d2-a02e-24776d985292/4c16c2b1-51bd-4393-b426-fd62e379692e"
           (reference "R102") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "LEA_SymbolLibrary:GND") (at 243.84 138.43 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid a4f86e16-5703-4cee-8321-ec3c399c7bdf)
-    (property "Reference" "#PWR031" (at 246.38 140.97 90)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "GND" (at 243.84 142.24 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "" (at 243.84 138.43 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 243.84 138.43 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 126b4dd9-7062-46d4-875c-b82a58169509))
-    (instances
-      (project "LCB-CTB-01"
-        (path "/c93c15be-ff6f-40d2-a02e-24776d985292/4c16c2b1-51bd-4393-b426-fd62e379692e"
-          (reference "#PWR031") (unit 1)
         )
       )
     )
@@ -14432,31 +14362,6 @@
       (project "LCB-CTB-01"
         (path "/c93c15be-ff6f-40d2-a02e-24776d985292/4c16c2b1-51bd-4393-b426-fd62e379692e"
           (reference "R141") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "LEA_SymbolLibrary:GND") (at 214.63 138.43 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid d8888cf8-fbbc-46c3-9aba-10271c2f0d46)
-    (property "Reference" "#PWR030" (at 217.17 140.97 90)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "GND" (at 214.63 142.24 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "" (at 214.63 138.43 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 214.63 138.43 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 0697722e-429f-493c-91f4-c134353959cc))
-    (instances
-      (project "LCB-CTB-01"
-        (path "/c93c15be-ff6f-40d2-a02e-24776d985292/4c16c2b1-51bd-4393-b426-fd62e379692e"
-          (reference "#PWR030") (unit 1)
         )
       )
     )
