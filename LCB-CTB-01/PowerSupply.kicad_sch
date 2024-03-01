@@ -537,11 +537,11 @@
         )
       )
     )
-    (symbol "LEA_SymbolLibrary:LED_0603_RED" (pin_numbers hide) (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+    (symbol "LEA_SymbolLibrary:LED_0603_R_2mA_APHD1608LSURCK" (pin_numbers hide) (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
       (property "Reference" "D" (at 0 5.08 0)
         (effects (font (size 1.27 1.27)))
       )
-      (property "Value" "LED_0603_RED" (at 0 2.54 0)
+      (property "Value" "Red_2mA" (at 0 2.54 0)
         (effects (font (size 1.27 1.27)))
       )
       (property "Footprint" "LEA_FootprintLibrary:LED_0603" (at 0 -2.54 0)
@@ -562,12 +562,12 @@
       (property "ki_description" "LED 0603" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (symbol "LED_0603_RED_0_0"
+      (symbol "LED_0603_R_2mA_APHD1608LSURCK_0_0"
         (text "0603" (at -1.905 0.635 0)
           (effects (font (size 0.5 0.5)))
         )
       )
-      (symbol "LED_0603_RED_1_1"
+      (symbol "LED_0603_R_2mA_APHD1608LSURCK_1_1"
         (polyline
           (pts
             (xy -0.6604 -1.0414)
@@ -1401,14 +1401,14 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_RED") (at 189.23 64.77 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_R_2mA_APHD1608LSURCK") (at 189.23 64.77 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1c20d31d-5083-4b01-90c5-ee9b6fea4bf9)
     (property "Reference" "D2" (at 191.77 62.23 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "LED_0603_RED" (at 189.23 62.23 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Value" "Red_2mA" (at 189.23 62.23 0)
+      (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "LEA_FootprintLibrary:LED_0603" (at 189.23 67.31 0)
       (effects (font (size 1.27 1.27)) hide)

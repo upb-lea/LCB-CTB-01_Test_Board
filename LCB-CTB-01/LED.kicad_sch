@@ -297,7 +297,7 @@
         )
       )
     )
-    (symbol "LEA_SymbolLibrary:LED_0603_BLUE" (pin_numbers hide) (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+    (symbol "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D" (pin_numbers hide) (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
       (property "Reference" "D" (at 0 5.08 0)
         (effects (font (size 1.27 1.27)))
       )
@@ -322,12 +322,12 @@
       (property "ki_description" "LED 0603" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (symbol "LED_0603_BLUE_0_0"
+      (symbol "LED_0603_B_2mA_APHD1608LVBC/D_0_0"
         (text "0603" (at -1.905 0.635 0)
           (effects (font (size 0.5 0.5)))
         )
       )
-      (symbol "LED_0603_BLUE_1_1"
+      (symbol "LED_0603_B_2mA_APHD1608LVBC/D_1_1"
         (polyline
           (pts
             (xy -0.6604 -1.0414)
@@ -378,11 +378,11 @@
         )
       )
     )
-    (symbol "LEA_SymbolLibrary:LED_0603_RED" (pin_numbers hide) (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+    (symbol "LEA_SymbolLibrary:LED_0603_R_2mA_APHD1608LSURCK" (pin_numbers hide) (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
       (property "Reference" "D" (at 0 5.08 0)
         (effects (font (size 1.27 1.27)))
       )
-      (property "Value" "LED_0603_RED" (at 0 2.54 0)
+      (property "Value" "Red_2mA" (at 0 2.54 0)
         (effects (font (size 1.27 1.27)))
       )
       (property "Footprint" "LEA_FootprintLibrary:LED_0603" (at 0 -2.54 0)
@@ -403,12 +403,12 @@
       (property "ki_description" "LED 0603" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (symbol "LED_0603_RED_0_0"
+      (symbol "LED_0603_R_2mA_APHD1608LSURCK_0_0"
         (text "0603" (at -1.905 0.635 0)
           (effects (font (size 0.5 0.5)))
         )
       )
-      (symbol "LED_0603_RED_1_1"
+      (symbol "LED_0603_R_2mA_APHD1608LSURCK_1_1"
         (polyline
           (pts
             (xy -0.6604 -1.0414)
@@ -4433,7 +4433,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 88.9 99.06 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 88.9 99.06 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0282d0ec-bf99-4535-976d-c3565bc34092)
     (property "Reference" "D72" (at 86.36 96.52 0)
@@ -4468,7 +4468,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 166.37 57.15 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 166.37 57.15 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 03521e7e-805d-4f23-ac45-c6a468474d29)
     (property "Reference" "D119" (at 163.83 54.61 0)
@@ -4667,7 +4667,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 254 62.23 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 254 62.23 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 07bb3e93-42f3-44c0-9d81-fc0fb007d232)
     (property "Reference" "D141" (at 256.54 59.69 0)
@@ -4743,7 +4743,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 27.94 124.46 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 27.94 124.46 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0854942b-5c02-4a97-9194-6e74b4ca91f7)
     (property "Reference" "D28" (at 25.4 121.92 0)
@@ -4860,7 +4860,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 166.37 38.1 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 166.37 38.1 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 097aa4bc-7d00-4e08-a8ab-47365b4d8375)
     (property "Reference" "D51" (at 163.83 35.56 0)
@@ -4895,7 +4895,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 88.9 80.01 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 88.9 80.01 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 09c11db4-cdc5-40e0-a8be-ccf8c0012ea6)
     (property "Reference" "D69" (at 86.36 77.47 0)
@@ -4971,7 +4971,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 114.3 48.26 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 114.3 48.26 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0b4b76ab-dc00-4495-a6f7-be218e54f570)
     (property "Reference" "D89" (at 116.84 45.72 0)
@@ -5006,7 +5006,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 27.94 80.01 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 27.94 80.01 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0cf723c8-d67f-4b7c-9c55-142cd4ddd84e)
     (property "Reference" "D18" (at 25.4 77.47 0)
@@ -5082,7 +5082,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 52.07 67.31 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 52.07 67.31 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0d96745c-3fce-43ab-b685-93fbad789b96)
     (property "Reference" "D39" (at 54.61 64.77 0)
@@ -5117,7 +5117,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 27.94 175.26 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 27.94 175.26 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0e8b4cf0-221f-43c3-9895-e109fcb54281)
     (property "Reference" "D83" (at 25.4 172.72 0)
@@ -5152,7 +5152,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 52.07 156.21 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 52.07 156.21 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 10423f63-6f9d-4611-b233-f11439e1c214)
     (property "Reference" "D57" (at 54.61 153.67 0)
@@ -5187,7 +5187,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 88.9 92.71 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 88.9 92.71 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 11272027-ba6f-4203-be3f-25419b6a599b)
     (property "Reference" "D71" (at 86.36 90.17 0)
@@ -5345,7 +5345,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 88.9 73.66 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 88.9 73.66 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1536ac57-53a9-42fd-845d-cbac531b56f7)
     (property "Reference" "D68" (at 86.36 71.12 0)
@@ -5503,7 +5503,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 52.07 99.06 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 52.07 99.06 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 184a3d52-30fa-41d9-bbca-3f0e62681343)
     (property "Reference" "D46" (at 54.61 96.52 0)
@@ -5579,7 +5579,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 114.3 29.21 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 114.3 29.21 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1cd7390c-b4e6-4aa4-a03a-76e2022876bd)
     (property "Reference" "D86" (at 116.84 26.67 0)
@@ -5614,7 +5614,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 52.07 175.26 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 52.07 175.26 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1fcc3fb6-94f8-4d13-84d8-ad28f1045c28)
     (property "Reference" "D110" (at 54.61 172.72 0)
@@ -5649,7 +5649,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 254 113.03 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 254 113.03 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2017e847-c8f3-4973-98a1-c971102bc6d7)
     (property "Reference" "D135" (at 256.54 110.49 0)
@@ -5725,7 +5725,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 52.07 143.51 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 52.07 143.51 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 21a8f89b-52d1-4ebf-8d52-0574832ba3f3)
     (property "Reference" "D55" (at 54.61 140.97 0)
@@ -5801,13 +5801,13 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_RED") (at 115.57 195.58 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_R_2mA_APHD1608LSURCK") (at 115.57 195.58 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 23f2a023-0784-4d88-9f9b-7c60984a3855)
     (property "Reference" "D96" (at 118.11 193.04 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "LED_0603_RED" (at 115.57 193.04 0)
+    (property "Value" "Red_2mA" (at 115.57 193.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Footprint" "LEA_FootprintLibrary:LED_0603" (at 115.57 198.12 0)
@@ -5877,7 +5877,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 223.52 68.58 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 223.52 68.58 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 24de3775-1ea5-4dba-af11-d74660aa8fe0)
     (property "Reference" "D126" (at 220.98 66.04 0)
@@ -6035,7 +6035,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 27.94 162.56 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 27.94 162.56 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 26ec866c-0e1a-4c1e-a07b-1dc61666e44d)
     (property "Reference" "D80" (at 25.4 160.02 0)
@@ -6152,7 +6152,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 27.94 22.86 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 27.94 22.86 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 29860c3f-8b3a-403b-a991-d93bce0850e0)
     (property "Reference" "D4" (at 25.4 20.32 0)
@@ -6269,7 +6269,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 114.3 118.11 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 114.3 118.11 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2bf5fc8c-1151-4cd2-9a85-2b458def806c)
     (property "Reference" "D108" (at 116.84 115.57 0)
@@ -6304,7 +6304,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 27.94 29.21 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 27.94 29.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2bfd4347-40b6-41f1-8924-d0bbfbc3f039)
     (property "Reference" "D6" (at 25.4 26.67 0)
@@ -6487,13 +6487,13 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_RED") (at 115.57 163.83 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_R_2mA_APHD1608LSURCK") (at 115.57 163.83 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2f6c7364-b3b4-4099-99dd-7dc3da457b3e)
     (property "Reference" "D76" (at 118.11 161.29 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "LED_0603_RED" (at 115.57 161.29 0)
+    (property "Value" "Red_2mA" (at 115.57 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Footprint" "LEA_FootprintLibrary:LED_0603" (at 115.57 166.37 0)
@@ -6522,7 +6522,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 27.94 92.71 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 27.94 92.71 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 30c27941-13bf-42fc-8401-179dc1db394e)
     (property "Reference" "D23" (at 25.4 90.17 0)
@@ -6828,7 +6828,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 88.9 118.11 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 88.9 118.11 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 337fe2c0-350f-4741-b087-135c0cec5a98)
     (property "Reference" "D103" (at 86.36 115.57 0)
@@ -6945,7 +6945,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 52.07 187.96 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 52.07 187.96 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3407f9cf-df6a-4e47-9b4c-3dbfb39c3525)
     (property "Reference" "D115" (at 54.61 185.42 0)
@@ -7021,7 +7021,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 27.94 48.26 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 27.94 48.26 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 35324e1d-1ca8-4924-993e-5369ef6c4506)
     (property "Reference" "D10" (at 25.4 45.72 0)
@@ -7138,7 +7138,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 27.94 187.96 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 27.94 187.96 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 38022099-d7a6-4217-ba91-f0401876c877)
     (property "Reference" "D73" (at 25.4 185.42 0)
@@ -7173,13 +7173,13 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_RED") (at 91.44 176.53 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_R_2mA_APHD1608LSURCK") (at 91.44 176.53 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 38026cdf-0326-4fab-ba13-4783ad933f15)
     (property "Reference" "D14" (at 88.9 173.99 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "LED_0603_RED" (at 91.44 173.99 0)
+    (property "Value" "Red_2mA" (at 91.44 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Footprint" "LEA_FootprintLibrary:LED_0603" (at 91.44 179.07 0)
@@ -7249,7 +7249,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 88.9 86.36 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 88.9 86.36 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3990e16a-9c0e-4c91-9fb5-5ba7edf18e56)
     (property "Reference" "D70" (at 86.36 83.82 0)
@@ -7325,7 +7325,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 254 81.28 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 254 81.28 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3ab1544a-5d95-430a-a019-ebc9f90a4255)
     (property "Reference" "D144" (at 256.54 78.74 0)
@@ -7401,7 +7401,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 254 36.83 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 254 36.83 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3c5c07b6-f9ed-4217-a364-5767c7cebe11)
     (property "Reference" "D137" (at 256.54 34.29 0)
@@ -7600,7 +7600,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 223.52 106.68 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 223.52 106.68 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3f277f54-fdc9-4ac1-a5bb-12f4f90e11d9)
     (property "Reference" "D132" (at 220.98 104.14 0)
@@ -7717,7 +7717,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 166.37 69.85 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 166.37 69.85 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3fbe435d-2cf8-4596-9e6c-9721b568af22)
     (property "Reference" "D113" (at 163.83 67.31 0)
@@ -7752,7 +7752,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 254 100.33 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 254 100.33 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4101ea7f-3ea3-4265-989c-9ba48deff017)
     (property "Reference" "D147" (at 256.54 97.79 0)
@@ -7869,7 +7869,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 27.94 181.61 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 27.94 181.61 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 41da9fd0-6f17-48a8-87d7-fad289f492ec)
     (property "Reference" "D84" (at 25.4 179.07 0)
@@ -7904,13 +7904,13 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_RED") (at 91.44 170.18 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_R_2mA_APHD1608LSURCK") (at 91.44 170.18 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 426c75d9-9de8-4ccc-9ce2-2b85b06fdd01)
     (property "Reference" "D13" (at 88.9 167.64 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "LED_0603_RED" (at 91.44 167.64 0)
+    (property "Value" "Red_2mA" (at 91.44 167.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Footprint" "LEA_FootprintLibrary:LED_0603" (at 91.44 172.72 0)
@@ -8062,7 +8062,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 114.3 41.91 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 114.3 41.91 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 483e2fd1-ff23-44cf-894e-8eb41ab2623d)
     (property "Reference" "D88" (at 116.84 39.37 0)
@@ -8097,13 +8097,13 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_RED") (at 91.44 163.83 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_R_2mA_APHD1608LSURCK") (at 91.44 163.83 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4944c795-492c-427a-b852-44cb82d40c05)
     (property "Reference" "D11" (at 88.9 161.29 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "LED_0603_RED" (at 91.44 161.29 0)
+    (property "Value" "Red_2mA" (at 91.44 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Footprint" "LEA_FootprintLibrary:LED_0603" (at 91.44 166.37 0)
@@ -8173,7 +8173,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 27.94 35.56 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 27.94 35.56 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 49c46250-a64c-41e3-ba62-931b276f9608)
     (property "Reference" "D7" (at 25.4 33.02 0)
@@ -8249,7 +8249,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 223.52 74.93 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 223.52 74.93 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4a66c9b6-9fbc-4fa9-a65f-6ab77b0e0ec1)
     (property "Reference" "D127" (at 220.98 72.39 0)
@@ -8325,7 +8325,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 88.9 111.76 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 88.9 111.76 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4c0bcf12-3c05-4df7-956d-2a270877b73b)
     (property "Reference" "D102" (at 86.36 109.22 0)
@@ -8401,7 +8401,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 254 55.88 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 254 55.88 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4dc6d893-8e27-44b5-a3a9-ad7be7ee3686)
     (property "Reference" "D140" (at 256.54 53.34 0)
@@ -8477,13 +8477,13 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_RED") (at 115.57 176.53 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_R_2mA_APHD1608LSURCK") (at 115.57 176.53 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5158b9cc-80b1-45e8-8a04-1ab3e9d87368)
     (property "Reference" "D92" (at 118.11 173.99 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "LED_0603_RED" (at 115.57 173.99 0)
+    (property "Value" "Red_2mA" (at 115.57 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Footprint" "LEA_FootprintLibrary:LED_0603" (at 115.57 179.07 0)
@@ -8701,7 +8701,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 88.9 124.46 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 88.9 124.46 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 54ea0f47-309a-4686-9a0d-b005ecc6430d)
     (property "Reference" "D97" (at 86.36 121.92 0)
@@ -8736,7 +8736,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 254 106.68 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 254 106.68 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 559e583d-a3c2-42fe-aed9-2caf8bdf6a28)
     (property "Reference" "D134" (at 256.54 104.14 0)
@@ -8771,13 +8771,13 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_RED") (at 115.57 170.18 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_R_2mA_APHD1608LSURCK") (at 115.57 170.18 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 55a29d1e-1c1f-4ca6-8b75-2cded2383cea)
     (property "Reference" "D81" (at 118.11 167.64 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "LED_0603_RED" (at 115.57 167.64 0)
+    (property "Value" "Red_2mA" (at 115.57 167.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Footprint" "LEA_FootprintLibrary:LED_0603" (at 115.57 172.72 0)
@@ -8847,7 +8847,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 52.07 111.76 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 52.07 111.76 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 592184cd-9a1a-445f-9c09-70bbb7d1c70a)
     (property "Reference" "D48" (at 54.61 109.22 0)
@@ -8964,7 +8964,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 88.9 67.31 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 88.9 67.31 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5aba249e-5ceb-4017-b76e-86e3678241e9)
     (property "Reference" "D67" (at 86.36 64.77 0)
@@ -8999,7 +8999,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 27.94 143.51 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 27.94 143.51 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5ae60373-7d27-4e65-94f0-8020391582fe)
     (property "Reference" "D77" (at 25.4 140.97 0)
@@ -9034,7 +9034,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 52.07 86.36 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 52.07 86.36 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5b081f55-7168-4a46-abc7-0e1a6cb82285)
     (property "Reference" "D44" (at 54.61 83.82 0)
@@ -9069,7 +9069,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 52.07 181.61 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 52.07 181.61 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5b7a374c-7c1d-4098-8ee7-3d3ba72d8792)
     (property "Reference" "D111" (at 54.61 179.07 0)
@@ -9227,7 +9227,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 52.07 35.56 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 52.07 35.56 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 60e71d37-2708-4772-b7d8-c66a576a109a)
     (property "Reference" "D33" (at 54.61 33.02 0)
@@ -9262,7 +9262,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 254 74.93 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 254 74.93 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 61377bb1-d289-4e88-b6fb-7e26d930be55)
     (property "Reference" "D143" (at 256.54 72.39 0)
@@ -9297,7 +9297,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 114.3 80.01 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 114.3 80.01 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 617aba00-77c7-4128-a209-5ccaa0831a54)
     (property "Reference" "D99" (at 116.84 77.47 0)
@@ -9332,7 +9332,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 52.07 118.11 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 52.07 118.11 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6282eafa-a4e2-4ddd-a969-b1f572ef3604)
     (property "Reference" "D50" (at 54.61 115.57 0)
@@ -9367,7 +9367,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 166.37 31.75 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 166.37 31.75 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6289b0bc-16ef-4d55-8385-02ec3ff2aad2)
     (property "Reference" "D49" (at 163.83 29.21 0)
@@ -9443,7 +9443,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 113.03 130.81 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 113.03 130.81 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6370d85e-0aca-49bf-a1f2-81f102188409)
     (property "Reference" "D66" (at 115.57 128.27 0)
@@ -9478,7 +9478,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 52.07 48.26 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 52.07 48.26 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6521a62a-791a-4fbf-ae4e-2e58cbbc337f)
     (property "Reference" "D35" (at 54.61 45.72 0)
@@ -9513,13 +9513,13 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_RED") (at 115.57 151.13 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_R_2mA_APHD1608LSURCK") (at 115.57 151.13 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 65719cee-cff0-4c9d-ab17-159adeb1c19b)
     (property "Reference" "D22" (at 118.11 148.59 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "LED_0603_RED" (at 115.57 148.59 0)
+    (property "Value" "Red_2mA" (at 115.57 148.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Footprint" "LEA_FootprintLibrary:LED_0603" (at 115.57 153.67 0)
@@ -9548,7 +9548,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 166.37 82.55 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 166.37 82.55 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6729d1ff-fcc6-427c-872c-d20abbbed120)
     (property "Reference" "D116" (at 163.83 80.01 0)
@@ -9583,7 +9583,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 27.94 118.11 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 27.94 118.11 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 673cabe7-6c99-4347-b283-85ead9874951)
     (property "Reference" "D27" (at 25.4 115.57 0)
@@ -9618,7 +9618,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 88.9 48.26 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 88.9 48.26 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 67d7c642-55c2-4fc1-939e-02c6eeaca598)
     (property "Reference" "D63" (at 86.36 45.72 0)
@@ -9653,7 +9653,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 27.94 54.61 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 27.94 54.61 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 68d047a7-9df8-43d1-9710-ce0dd93b013d)
     (property "Reference" "D12" (at 25.4 52.07 0)
@@ -9770,7 +9770,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 223.52 87.63 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 223.52 87.63 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6c9afe4c-61cb-4703-964f-c0856f7ff24b)
     (property "Reference" "D129" (at 220.98 85.09 0)
@@ -9805,13 +9805,13 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_RED") (at 91.44 151.13 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_R_2mA_APHD1608LSURCK") (at 91.44 151.13 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6d710c32-b0bb-46bf-b0a6-e5af79d05522)
     (property "Reference" "D5" (at 88.9 148.59 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "LED_0603_RED" (at 91.44 148.59 0)
+    (property "Value" "Red_2mA" (at 91.44 148.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Footprint" "LEA_FootprintLibrary:LED_0603" (at 91.44 153.67 0)
@@ -9840,7 +9840,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 52.07 105.41 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 52.07 105.41 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6da3a093-9b11-41be-b0ab-1961aeddaaa7)
     (property "Reference" "D47" (at 54.61 102.87 0)
@@ -9875,7 +9875,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 52.07 130.81 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 52.07 130.81 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6deb41aa-2801-4c75-8b00-aafc3ab53703)
     (property "Reference" "D53" (at 54.61 128.27 0)
@@ -9910,7 +9910,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 166.37 76.2 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 166.37 76.2 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6f57be67-9b64-4d49-b755-5edc08e946b1)
     (property "Reference" "D114" (at 163.83 73.66 0)
@@ -10027,7 +10027,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 254 125.73 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 254 125.73 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 71302cf9-0815-4e10-8cc4-67415c629698)
     (property "Reference" "D151" (at 256.54 123.19 0)
@@ -10103,7 +10103,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 223.52 93.98 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 223.52 93.98 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7163707c-7bd8-4375-b691-b7e0354a5b2d)
     (property "Reference" "D130" (at 220.98 91.44 0)
@@ -10138,7 +10138,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 27.94 149.86 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 27.94 149.86 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 71d77a34-2450-4e2b-b375-f062ce351ecf)
     (property "Reference" "D78" (at 25.4 147.32 0)
@@ -10173,7 +10173,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 52.07 22.86 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 52.07 22.86 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 735398fc-bd7e-4e0b-ac0d-e2fbb83665f4)
     (property "Reference" "D31" (at 54.61 20.32 0)
@@ -10290,7 +10290,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 114.3 67.31 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 114.3 67.31 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 76633d1a-d0e4-44bc-850a-01bf1fec3ada)
     (property "Reference" "D95" (at 116.84 64.77 0)
@@ -10325,7 +10325,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 254 49.53 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 254 49.53 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 76f54014-20ce-48ee-b9b9-bcd3e8dba21e)
     (property "Reference" "D139" (at 256.54 46.99 0)
@@ -10401,7 +10401,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 27.94 105.41 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 27.94 105.41 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7872446d-445b-4ebc-9f65-1568233a73f3)
     (property "Reference" "D25" (at 25.4 102.87 0)
@@ -10436,13 +10436,13 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_RED") (at 91.44 182.88 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_R_2mA_APHD1608LSURCK") (at 91.44 182.88 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7a0343ee-86f4-4478-9ae1-24f46ab550b4)
     (property "Reference" "D19" (at 88.9 180.34 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "LED_0603_RED" (at 91.44 180.34 0)
+    (property "Value" "Red_2mA" (at 91.44 180.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Footprint" "LEA_FootprintLibrary:LED_0603" (at 91.44 185.42 0)
@@ -10471,7 +10471,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 223.52 81.28 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 223.52 81.28 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7a1df872-212b-4e91-9c57-c7f625abc446)
     (property "Reference" "D128" (at 220.98 78.74 0)
@@ -10596,7 +10596,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 254 30.48 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 254 30.48 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 801b1f7d-900f-4270-9afc-b134b7ae73d8)
     (property "Reference" "D136" (at 256.54 27.94 0)
@@ -10631,7 +10631,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 27.94 111.76 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 27.94 111.76 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 813f73eb-80af-4da8-94ce-1e67561d6963)
     (property "Reference" "D26" (at 25.4 109.22 0)
@@ -10707,7 +10707,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 223.52 119.38 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 223.52 119.38 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8342a30e-2ed2-4ec4-a79e-9516047bde2d)
     (property "Reference" "D148" (at 220.98 116.84 0)
@@ -10783,7 +10783,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 52.07 54.61 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 52.07 54.61 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 862f1f41-b2c6-4323-bcb3-acfc2a329d0c)
     (property "Reference" "D36" (at 54.61 52.07 0)
@@ -10859,7 +10859,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 27.94 99.06 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 27.94 99.06 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8915d9c7-d4e3-4c60-b124-ad5ba5d49b2f)
     (property "Reference" "D24" (at 25.4 96.52 0)
@@ -10894,13 +10894,13 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_RED") (at 91.44 157.48 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_R_2mA_APHD1608LSURCK") (at 91.44 157.48 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8ac72f51-6f58-45ae-893e-121fa41bfbeb)
     (property "Reference" "D9" (at 88.9 154.94 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "LED_0603_RED" (at 91.44 154.94 0)
+    (property "Value" "Red_2mA" (at 91.44 154.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Footprint" "LEA_FootprintLibrary:LED_0603" (at 91.44 160.02 0)
@@ -10929,7 +10929,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 254 87.63 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 254 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8acb49c6-c9b7-44ea-bf32-411c9c10c440)
     (property "Reference" "D145" (at 256.54 85.09 0)
@@ -11046,7 +11046,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 52.07 162.56 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 52.07 162.56 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8d0a06c5-02b8-4d86-8361-86ebc95d6070)
     (property "Reference" "D58" (at 54.61 160.02 0)
@@ -11122,7 +11122,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 223.52 100.33 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 223.52 100.33 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8e601afa-f1fa-4db8-9d36-6cac19c6a362)
     (property "Reference" "D131" (at 220.98 97.79 0)
@@ -11157,7 +11157,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 114.3 54.61 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 114.3 54.61 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8e713d40-abd2-4990-a4e3-78f18f66d2ed)
     (property "Reference" "D90" (at 116.84 52.07 0)
@@ -11233,7 +11233,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 223.52 36.83 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 223.52 36.83 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8fca3e25-2fc7-4d3c-8350-198a57868237)
     (property "Reference" "D121" (at 220.98 34.29 0)
@@ -11350,13 +11350,13 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_RED") (at 115.57 189.23 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_R_2mA_APHD1608LSURCK") (at 115.57 189.23 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 908637c0-c367-4e55-be6f-0ef38567f16a)
     (property "Reference" "D94" (at 118.11 186.69 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "LED_0603_RED" (at 115.57 186.69 0)
+    (property "Value" "Red_2mA" (at 115.57 186.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Footprint" "LEA_FootprintLibrary:LED_0603" (at 115.57 191.77 0)
@@ -11467,7 +11467,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 223.52 30.48 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 223.52 30.48 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 93517487-550d-4ad6-949c-0e7f040af7bf)
     (property "Reference" "D120" (at 220.98 27.94 0)
@@ -11584,7 +11584,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 114.3 111.76 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 114.3 111.76 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 972d0aaf-2c4f-4543-b87a-adfe7e96ead8)
     (property "Reference" "D107" (at 116.84 109.22 0)
@@ -11619,7 +11619,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 27.94 86.36 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 27.94 86.36 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 979669db-b580-437e-8484-ab06bfcd56c8)
     (property "Reference" "D20" (at 25.4 83.82 0)
@@ -11736,7 +11736,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 88.9 35.56 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 88.9 35.56 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9e156aa3-9f44-494c-aabc-02bc67f1f582)
     (property "Reference" "D61" (at 86.36 33.02 0)
@@ -11812,7 +11812,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 27.94 73.66 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 27.94 73.66 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9fcd1c0c-28a5-4f16-94b2-68ab04f7d544)
     (property "Reference" "D17" (at 25.4 71.12 0)
@@ -11847,7 +11847,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 27.94 137.16 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 27.94 137.16 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a09831f9-cf2f-4289-b385-9348852b7362)
     (property "Reference" "D75" (at 25.4 134.62 0)
@@ -12046,7 +12046,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 52.07 149.86 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 52.07 149.86 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a6a75228-a119-4de2-b6e9-24e4e641f4fb)
     (property "Reference" "D56" (at 54.61 147.32 0)
@@ -12204,7 +12204,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 114.3 73.66 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 114.3 73.66 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ab32fda4-b791-43f4-bcc6-b92e7f543139)
     (property "Reference" "D98" (at 116.84 71.12 0)
@@ -12239,7 +12239,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 88.9 60.96 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 88.9 60.96 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ab5331b1-bc86-465b-bdbc-4e5a208c3a2f)
     (property "Reference" "D65" (at 86.36 58.42 0)
@@ -12315,13 +12315,13 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_RED") (at 115.57 182.88 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_R_2mA_APHD1608LSURCK") (at 115.57 182.88 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ac8cfa87-cb08-4fca-be42-1c1b3ac9b819)
     (property "Reference" "D93" (at 118.11 180.34 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "LED_0603_RED" (at 115.57 180.34 0)
+    (property "Value" "Red_2mA" (at 115.57 180.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Footprint" "LEA_FootprintLibrary:LED_0603" (at 115.57 185.42 0)
@@ -12391,7 +12391,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 52.07 41.91 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 52.07 41.91 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ae9e0e52-74e3-43b9-a4ab-65c7f8e5d050)
     (property "Reference" "D34" (at 54.61 39.37 0)
@@ -12549,7 +12549,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 52.07 92.71 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 52.07 92.71 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b0ca0a5e-f1e9-48bf-86cd-75b5d33ab885)
     (property "Reference" "D45" (at 54.61 90.17 0)
@@ -12666,7 +12666,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 52.07 60.96 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 52.07 60.96 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b3138a80-f4b6-4231-9b40-bc3aabdc20b7)
     (property "Reference" "D37" (at 54.61 58.42 0)
@@ -12701,7 +12701,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 254 119.38 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 254 119.38 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b4b20c2c-2459-41fb-8153-c70981f51b24)
     (property "Reference" "D150" (at 256.54 116.84 0)
@@ -12777,7 +12777,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 254 68.58 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 254 68.58 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b6d95ffd-e3e3-43da-ab44-a6d7f3cbadb7)
     (property "Reference" "D142" (at 256.54 66.04 0)
@@ -12812,7 +12812,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 114.3 60.96 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 114.3 60.96 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b6dedc36-592e-4d1a-bd23-8ae6888da983)
     (property "Reference" "D91" (at 116.84 58.42 0)
@@ -13036,7 +13036,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 27.94 194.31 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 27.94 194.31 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid be52a50b-d929-440b-88bb-338230675beb)
     (property "Reference" "D74" (at 25.4 191.77 0)
@@ -13153,7 +13153,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 52.07 73.66 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 52.07 73.66 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c1911cd3-fb8f-4be4-b53b-6c3d86ccb3f0)
     (property "Reference" "D40" (at 54.61 71.12 0)
@@ -13229,7 +13229,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 88.9 29.21 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 88.9 29.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c2d71558-b5e2-4b7e-a16b-3ee8d14120d5)
     (property "Reference" "D60" (at 86.36 26.67 0)
@@ -13436,7 +13436,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 52.07 29.21 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 52.07 29.21 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c4b85cce-fae8-4996-9f37-b74e6ebd1946)
     (property "Reference" "D32" (at 54.61 26.67 0)
@@ -13512,7 +13512,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 166.37 44.45 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 166.37 44.45 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c98edfd6-0b63-4091-abc6-6d8d3f60dc51)
     (property "Reference" "D38" (at 163.83 41.91 0)
@@ -13588,7 +13588,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 88.9 54.61 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 88.9 54.61 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid cc75525d-c959-4681-9742-01b5c044dc52)
     (property "Reference" "D64" (at 86.36 52.07 0)
@@ -13664,7 +13664,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 88.9 105.41 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 88.9 105.41 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid cdcbf59d-f11e-4c22-8cfa-1b9c3871777f)
     (property "Reference" "D101" (at 86.36 102.87 0)
@@ -13699,13 +13699,13 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_RED") (at 115.57 157.48 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_R_2mA_APHD1608LSURCK") (at 115.57 157.48 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid cdf7f240-9003-42c0-a872-93c38558798c)
     (property "Reference" "D29" (at 118.11 154.94 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "LED_0603_RED" (at 115.57 154.94 0)
+    (property "Value" "Red_2mA" (at 115.57 154.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Footprint" "LEA_FootprintLibrary:LED_0603" (at 115.57 160.02 0)
@@ -13734,7 +13734,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 166.37 50.8 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 166.37 50.8 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid cea06361-da4b-4ea8-b6d2-1c5af4f22d9d)
     (property "Reference" "D112" (at 163.83 48.26 0)
@@ -13851,7 +13851,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 27.94 67.31 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 27.94 67.31 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d023e7d7-4014-4376-b605-14d4e6fda54e)
     (property "Reference" "D16" (at 25.4 64.77 0)
@@ -13886,7 +13886,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 27.94 130.81 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 27.94 130.81 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d04c432b-9010-4ce3-a1a9-d1dfe797d8e0)
     (property "Reference" "D30" (at 25.4 128.27 0)
@@ -13962,7 +13962,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 52.07 137.16 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 52.07 137.16 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d306bf0e-547e-4a53-ab70-a1620af90f6d)
     (property "Reference" "D54" (at 54.61 134.62 0)
@@ -13997,7 +13997,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 27.94 168.91 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 27.94 168.91 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d30c7d01-0fc3-48f5-b58b-342d31a83e21)
     (property "Reference" "D82" (at 25.4 166.37 0)
@@ -14073,7 +14073,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 254 93.98 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 254 93.98 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d427750c-3fe7-4f21-8591-b4d032eb17b5)
     (property "Reference" "D146" (at 256.54 91.44 0)
@@ -14108,7 +14108,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 114.3 22.86 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 114.3 22.86 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d48b8f82-9e12-4ce5-adb3-7a83e9954a2b)
     (property "Reference" "D85" (at 116.84 20.32 0)
@@ -14184,7 +14184,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 113.03 124.46 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 113.03 124.46 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d5407782-c605-4335-b04c-2712b54317c3)
     (property "Reference" "D42" (at 115.57 121.92 0)
@@ -14219,7 +14219,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 114.3 99.06 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 114.3 99.06 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d5e8a173-4c70-409d-a56e-66ec2feb4232)
     (property "Reference" "D105" (at 116.84 96.52 0)
@@ -14254,25 +14254,25 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 88.9 22.86 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_R_2mA_APHD1608LSURCK") (at 88.9 22.86 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d672f0b2-01e9-405b-9383-c742c0c6212c)
     (property "Reference" "D59" (at 86.36 20.32 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "LED_0603_BLUE" (at 88.9 20.32 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Value" "Red_2mA" (at 88.9 20.32 0)
+      (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "LEA_FootprintLibrary:LED_0603" (at 88.9 25.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "https://eu.mouser.com/datasheet/2/216/APHD1608LVBC-D-1100823.pdf" (at 88.9 10.8712 0)
+    (property "Datasheet" "https://eu.mouser.com/datasheet/2/216/APHD1608LSURCK-1100899.pdf" (at 88.9 10.8712 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "mouser#" "604-APHD1608LVBCD" (at 88.9 16.002 0)
+    (property "mouser#" "604-APHD1608LSURCK" (at 88.9 16.002 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "manf#" "APHD1608LVBC/D" (at 88.9 8.1788 0)
+    (property "manf#" "APHD1608LSURCK" (at 88.9 8.1788 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Manufacturer" "Kingbright" (at 88.9 27.178 0)
@@ -14330,7 +14330,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 114.3 86.36 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 114.3 86.36 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d927f716-a65e-45be-af7a-b57c70057faf)
     (property "Reference" "D100" (at 116.84 83.82 0)
@@ -14365,7 +14365,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 27.94 156.21 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 27.94 156.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d9e1d398-2b17-4a26-b9cd-15bd8f7576b9)
     (property "Reference" "D79" (at 25.4 153.67 0)
@@ -14441,7 +14441,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 52.07 124.46 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 52.07 124.46 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid da791491-5d77-4836-9367-a01da960c6c5)
     (property "Reference" "D52" (at 54.61 121.92 0)
@@ -14476,7 +14476,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 88.9 41.91 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 88.9 41.91 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid db257a30-4ca0-47b4-9332-bf47a1f5e4ab)
     (property "Reference" "D62" (at 86.36 39.37 0)
@@ -14552,7 +14552,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 27.94 60.96 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 27.94 60.96 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid db38ce08-bdf7-414f-909c-f81e940d0bd5)
     (property "Reference" "D15" (at 25.4 58.42 0)
@@ -14587,7 +14587,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 223.52 55.88 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 223.52 55.88 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid db55d1a7-b2f2-466d-bc2b-8f15bf43ee17)
     (property "Reference" "D124" (at 220.98 53.34 0)
@@ -14622,13 +14622,13 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_RED") (at 115.57 144.78 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_R_2mA_APHD1608LSURCK") (at 115.57 144.78 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid dbccabe2-bfe3-4c5e-9885-fa76f45075e6)
     (property "Reference" "D41" (at 118.11 142.24 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "LED_0603_RED" (at 115.57 142.24 0)
+    (property "Value" "Red_2mA" (at 115.57 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Footprint" "LEA_FootprintLibrary:LED_0603" (at 115.57 147.32 0)
@@ -14698,7 +14698,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 114.3 92.71 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 114.3 92.71 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid dc515cbd-8b08-4ece-90c8-711aa4910f4f)
     (property "Reference" "D104" (at 116.84 90.17 0)
@@ -14733,7 +14733,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 114.3 35.56 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 114.3 35.56 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid dd19b493-b24e-4d8c-ab81-35d2ed669f21)
     (property "Reference" "D87" (at 116.84 33.02 0)
@@ -14768,7 +14768,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 223.52 113.03 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 223.52 113.03 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid dfefda44-8709-4b86-a51f-da633141e8c2)
     (property "Reference" "D133" (at 220.98 110.49 0)
@@ -15074,7 +15074,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 27.94 41.91 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 27.94 41.91 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e9738591-452b-472e-a7e2-c30880ad9f57)
     (property "Reference" "D8" (at 25.4 39.37 0)
@@ -15109,7 +15109,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 254 43.18 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 254 43.18 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ea21e80d-7c29-41cf-b04d-697d850f953d)
     (property "Reference" "D138" (at 256.54 40.64 0)
@@ -15144,7 +15144,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 223.52 125.73 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 223.52 125.73 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ea672463-3b87-4fee-ae44-c3b9009429be)
     (property "Reference" "D149" (at 220.98 123.19 0)
@@ -15435,13 +15435,13 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_RED") (at 91.44 144.78 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_R_2mA_APHD1608LSURCK") (at 91.44 144.78 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f514824f-52ac-4363-b0ea-1dbad7eb9319)
     (property "Reference" "D3" (at 88.9 142.24 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "LED_0603_RED" (at 91.44 142.24 0)
+    (property "Value" "Red_2mA" (at 91.44 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Footprint" "LEA_FootprintLibrary:LED_0603" (at 91.44 147.32 0)
@@ -15470,7 +15470,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 223.52 62.23 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 223.52 62.23 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f7791c38-edf7-4e37-8f93-3ed5455213af)
     (property "Reference" "D125" (at 220.98 59.69 0)
@@ -15505,7 +15505,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 166.37 63.5 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 166.37 63.5 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f7fb2013-0ad3-43f7-a8c0-5ed43feffab8)
     (property "Reference" "D117" (at 163.83 60.96 0)
@@ -15581,13 +15581,13 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_RED") (at 91.44 189.23 0) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_R_2mA_APHD1608LSURCK") (at 91.44 189.23 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f86d7900-3a70-424b-a31b-dea5fba8eb34)
     (property "Reference" "D21" (at 88.9 186.69 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "LED_0603_RED" (at 91.44 186.69 0)
+    (property "Value" "Red_2mA" (at 91.44 186.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Footprint" "LEA_FootprintLibrary:LED_0603" (at 91.44 191.77 0)
@@ -15698,7 +15698,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 52.07 168.91 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 52.07 168.91 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fa3912f1-115f-44da-9643-54d4fda9a5c0)
     (property "Reference" "D109" (at 54.61 166.37 0)
@@ -15733,7 +15733,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 223.52 43.18 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 223.52 43.18 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fb3104a0-5bc8-4419-b3fe-3914463ff419)
     (property "Reference" "D122" (at 220.98 40.64 0)
@@ -15809,7 +15809,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 114.3 105.41 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 114.3 105.41 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fd287afe-2bc2-485e-8e95-4a88b2969974)
     (property "Reference" "D106" (at 116.84 102.87 0)
@@ -15844,7 +15844,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 52.07 80.01 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 52.07 80.01 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fd6dc169-62aa-410a-beef-96a8b4b05221)
     (property "Reference" "D43" (at 54.61 77.47 0)
@@ -15879,7 +15879,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 223.52 49.53 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 223.52 49.53 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ff381a50-ea0f-4d1e-a0f1-d35010e2fc2c)
     (property "Reference" "D123" (at 220.98 46.99 0)
@@ -15914,7 +15914,7 @@
     )
   )
 
-  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_BLUE") (at 52.07 194.31 0) (mirror y) (unit 1)
+  (symbol (lib_id "LEA_SymbolLibrary:LED_0603_B_2mA_APHD1608LVBC/D") (at 52.07 194.31 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fffb4c3b-d91e-4953-9f4d-df7d51018378)
     (property "Reference" "D118" (at 54.61 191.77 0)
