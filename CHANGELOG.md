@@ -7,8 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [1.0.0] - 20xx-xx-xx
-### Added
+## [1.0.0] - 2024-03-02
+- Initial release
 
 
 [unreleased]: https://github.com/upb-lea/LCB-CTB-01_Test_Board/compare/1.0.0...HEAD
